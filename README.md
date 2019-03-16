@@ -1,2 +1,2 @@
-# dayanamorales
+# dayana
 curriculum vitae
